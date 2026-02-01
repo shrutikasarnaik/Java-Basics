@@ -28,7 +28,7 @@ A collection of simple Java programs for learning core concepts like input/outpu
 
 
 
-\## How to run
+*How to run*
 
 1\. Install Java (JDK 8+)
 
@@ -44,7 +44,7 @@ A collection of simple Java programs for learning core concepts like input/outpu
 
 
 
-\## Project structure
+*Project structure*
 
 Java-Basics/
 
