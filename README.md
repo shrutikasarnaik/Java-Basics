@@ -6,6 +6,7 @@ A collection of simple Java programs for learning core concepts like input/outpu
 
 
 
+
 *Programs Included*
 
 \- EvenOdd.java
@@ -28,6 +29,7 @@ A collection of simple Java programs for learning core concepts like input/outpu
 
 
 
+
 *How to run*
 
 1\. Install Java (JDK 8+)
@@ -41,6 +43,7 @@ A collection of simple Java programs for learning core concepts like input/outpu
 4\. Run:
 
 &nbsp;  java FileName
+
 
 
 
