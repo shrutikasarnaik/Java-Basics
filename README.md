@@ -58,7 +58,7 @@ Java-Basics/
 
 
 
-\## Notes
+*Notes*
 
 This repo is for learning and practice.
 
