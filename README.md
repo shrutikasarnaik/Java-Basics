@@ -7,7 +7,7 @@ A collection of simple Java programs for learning core concepts like input/outpu
 
 
 
-*Programs Included
+*Programs Included*
 
 \- EvenOdd.java
 
